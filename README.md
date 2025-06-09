@@ -9,9 +9,13 @@ I am a senior Computer Science student with a 3.62 GPA, specializing in data eng
 ## Technical Skills
 
 **Programming Languages:** Java, Python, SQL, JavaScript (Node.js, Express.js)
+
 **Data Tools & Frameworks:** Apache Kafka, Apache Spark, Hadoop, MapReduce, ETL Pipelines, Scikit-learn (beginner), TensorFlow (beginner), NumPy, Pandas, MLflow
+
 **Databases:** MySQL, PostgreSQL, MongoDB
+
 **Development Tools:** Docker, Maven, Git, Linux, Postman, Google Colab, GitHub Actions
+
 **Key Concepts:** Data Engineering, Distributed Systems, Real-Time Data Processing, TF-IDF, RESTful APIs, Continuous Integration/Continuous Deployment (CI/CD), Experiment Tracking
 
 ---
@@ -27,7 +31,8 @@ I am a senior Computer Science student with a 3.62 GPA, specializing in data eng
 
 ## Current Learning Path
 
-Following a structured 12-week plan to deepen expertise in data engineering and data science
+Currently following a structured 12-week plan to deepen expertise in data engineering and data science
+
 Certifications: HCIA-AI V3.5 | Currently enrolled in the DEPI IBM Data Science Curriculum
 
 ---
