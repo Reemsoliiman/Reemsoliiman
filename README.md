@@ -1,46 +1,39 @@
-# Reem Soliman 👩🏻‍💻
+# Reem Soliman 👩🏻‍💻  
+**Senior CS Student | Data Engineering & ML Enthusiast**
 
-**Senior Computer Science Student | Data Engineering & Machine Learning Enthusiast**
-
-I am a senior Computer Science student with a 3.62 GPA, specializing in data engineering, machine learning, and distributed systems. I focus on designing and implementing real-time data pipelines, indexing systems, and tools to organize and analyze unstructured data. Currently, I am advancing my skills through the DEPI IBM Data Science Curriculum and hold the HCIA-AI V3.5 certification.
-
----
-
-## Technical Skills
-
-* **Programming Languages:** Java, Python, SQL, JavaScript (Node.js, Express.js)
-* **Data Tools & Frameworks:** Apache Kafka, Apache Spark, Hadoop, MapReduce, ETL Pipelines, Scikit-learn (beginner), TensorFlow (beginner), NumPy, Pandas, MLflow
-* **Databases:** MySQL, PostgreSQL, MongoDB
-* **Development Tools:** Docker, Maven, Git, Linux, Postman, Google Colab, GitHub Actions
-* **Key Concepts:** Data Engineering, Distributed Systems, Real-Time Data Processing, TF-IDF, RESTful APIs, Continuous Integration/Continuous Deployment (CI/CD), Experiment Tracking
+I'm a senior Computer Science student (GPA: 3.62) focused on data engineering, machine learning, and distributed systems. I build real-time pipelines, indexing systems, and tools that make messy data meaningful. Currently deepening my skills via the DEPI IBM Data Science Curriculum and certified in HCIA-AI V3.5.
 
 ---
 
-### Featured Projects  
- [Positional Index with MapReduce](https://github.com/Reemsoliiman/positional-index-MapReduce)  
-> A Hadoop-based positional index with query processing, TF-IDF scoring, and Flask web interface.
-
- [Real-Time Social Media Pipeline](https://github.com/Reemsoliiman/social-media-pipeline)  
-> Streams tweets via Kafka and processes them with Spark to extract trending hashtags.
-
----
-
-## Current Learning Path
-
-* Currently following a structured plan to deepen expertise in data engineering and data science
-* Certifications: HCIA-AI V3.5 | Currently enrolled in the DEPI IBM Data Science Curriculum
+## 🛠️ Tech Stack  
+* **Languages:** Java, Python, SQL, JavaScript (Node.js, Express)  
+* **Data Tools:** Kafka, Spark, Hadoop, MapReduce, Pandas, NumPy, Scikit-learn (beginner), TensorFlow (beginner), MLflow  
+* **Databases:** MySQL, PostgreSQL, MongoDB  
+* **Dev Tools:** Docker, Maven, Git, Linux, Postman, GitHub Actions, Google Colab  
+* **Core Concepts:** Data Engineering, Distributed Systems, Real-Time Processing, TF-IDF, REST APIs, CI/CD, Experiment Tracking  
 
 ---
 
-## Contact
+## 🚀 Featured Projects  
+🔹 [Positional Index with MapReduce](https://github.com/Reemsoliiman/positional-index-MapReduce)  
+> Hadoop-based positional index with query processing, TF-IDF scoring, and a Flask UI.
 
-I welcome opportunities for collaboration, internships, and professional discussions in data engineering and machine learning.
+🔹 [Real-Time Social Media Pipeline](https://github.com/Reemsoliiman/social-media-pipeline)  
+> Kafka + Spark pipeline for analyzing tweets and extracting trending hashtags.
 
-**LinkedIn:** [linkedin.com/in/reemsoliiman](https://linkedin.com/in/reemsoliiman)
-**Email:** [reemamahmoudsoliman@gmail.com ](mailto:reemamahmoudsoliman@gmail.com)
+---
+
+## 📚 Learning Path  
+- 🧠 Currently enrolled in DEPI IBM Data Science Curriculum  
+- ✅ HCIA-AI V3.5 Certified  
+- 🔁 Actively improving in data science, real-time systems, and model deployment  
 
 ---
 
-*Committed to continuous learning and impactful development.*
+## Let’s Connect  
+📧 **Email:** [reemamahmoudsoliman@gmail.com](mailto:reemamahmoudsoliman@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/reemsoliiman](https://linkedin.com/in/reemsoliiman)
 
 ---
+
+_Always learning. Always building._
