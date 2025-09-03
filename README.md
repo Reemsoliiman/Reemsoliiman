@@ -46,6 +46,3 @@ I’m a senior Computer Science student (Helwan University, GPA 3.64) specializi
 📧 **Email**: [reemmahmoudsoliman@gmail.com](mailto:reemmahmoudsoliman@gmail.com)
 💼 **LinkedIn**: [linkedin.com/in/reemsoliiman](https://linkedin.com/in/reemsoliiman)
 📂 **Kaggle**: [kaggle.com/reemsoliiman](https://kaggle.com/reemsoliiman)
-
-
-👉 Do you want me to **write a template README.md** for one repo (say your Churn Prediction project) so you can copy/paste and adapt it to others?
