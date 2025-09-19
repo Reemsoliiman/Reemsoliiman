@@ -18,6 +18,7 @@ Turning raw data into clear, actionable insights with Python, SQL, Pandas, and v
 ## 🚀 Featured Projects
 
 🔹 [Customer Churn Prediction](https://github.com/Reemsoliiman/customer-churn-prediction-analysis) – ML model with Scikit-learn & MLflow, deployed via FastAPI & Streamlit.
+
 🔹 [Social Media Streaming Pipeline](https://github.com/Reemsoliiman/social-stream-pipeline) – Kafka + Spark pipeline processing 10K+ tweets/minute.
 
 ---
